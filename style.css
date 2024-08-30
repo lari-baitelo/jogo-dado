@@ -1,0 +1,27 @@
+.container{
+    width: 60vw;
+    height: 80vh;
+    background-color: rgb(242, 238, 238);
+    margin: auto;
+    margin-top: 10vh;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 20%;
+}
+
+button{
+    padding: 15px 30px;
+    font-size: 16px;
+    background-color: rgb(81, 81, 81);
+    color: white;
+    border-radius: 25px;
+    border: none;
+    margin: 30px;
+
+}
